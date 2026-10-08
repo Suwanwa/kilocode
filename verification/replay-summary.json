@@ -1,0 +1,43 @@
+{
+  "at": "2026-10-08T11:53:50.165067+00:00",
+  "base_commit": "42efc95370e61d6668bd2cb05f955228e5d4155a",
+  "source_clean": true,
+  "counts": {
+    "tests": 200,
+    "failures": 4,
+    "errors": 0,
+    "skipped": 0
+  },
+  "failures": [
+    {
+      "class": "ConnectionDelayRepeatTest",
+      "test": "test hide event sees updated connection state on EDT",
+      "message": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+      "stack": "java.util.NoSuchElementException: Collection contains no element matching the predicate.\n\tat ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)"
+    },
+    {
+      "class": "ConnectionDelayRepeatTest",
+      "test": "test hide event sees updated connection state on EDT",
+      "message": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+      "stack": "java.util.NoSuchElementException: Collection contains no element matching the predicate.\n\tat ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)"
+    },
+    {
+      "class": "ConnectionDelayRepeatTest",
+      "test": "test hide event sees updated connection state on EDT",
+      "message": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+      "stack": "java.util.NoSuchElementException: Collection contains no element matching the predicate.\n\tat ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)"
+    },
+    {
+      "class": "ConnectionDelayRepeatTest",
+      "test": "test hide event sees updated connection state on EDT",
+      "message": "java.util.NoSuchElementException: Collection contains no element matching the predicate.",
+      "stack": "java.util.NoSuchElementException: Collection contains no element matching the predicate.\n\tat ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)"
+    }
+  ],
+  "command_exit_code": 1,
+  "duration_seconds": 484.3213668890021,
+  "fixture": "followup-repeat/ConnectionDelayRepeatTest.java",
+  "init_script": "followup-repeat.init.gradle",
+  "scope": "Diagnostic replay of the original unmodified test, with original setup/assertions/teardown per iteration; external runner only, no source changes or relaxed assertions.",
+  "conclusion": "The exact same missing Hide-event assertion fails intermittently on the unmodified baseline (4/200). This establishes that the observed failure predates the timeline patch; the underlying race has not been fixed."
+}

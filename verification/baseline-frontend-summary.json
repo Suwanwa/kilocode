@@ -1,0 +1,36 @@
+{
+  "at": "2026-10-08T11:43:46.867243+00:00",
+  "base_commit": "42efc95370e61d6668bd2cb05f955228e5d4155a",
+  "source_clean": true,
+  "counts": {
+    "tests": 4491,
+    "failures": 2,
+    "errors": 0,
+    "skipped": 0
+  },
+  "failures": [
+    {
+      "class": "ai.kilocode.client.actions.TitleButtonTest",
+      "test": "test New Session button centers the plus and label",
+      "message": "java.lang.IllegalStateException: no blank column after the plus icon"
+    },
+    {
+      "class": "ai.kilocode.client.actions.TitleButtonTest",
+      "test": "test New Worktree button centers the plus and label",
+      "message": "java.lang.IllegalStateException: no blank column after the plus icon"
+    }
+  ],
+  "connection_delay_class": {
+    "name": "ai.kilocode.client.session.controller.ConnectionDelayTest",
+    "tests": "15",
+    "skipped": "0",
+    "failures": "0",
+    "errors": "0",
+    "timestamp": "2026-10-08T11:36:25.647Z",
+    "hostname": "9cdf3e8fa895",
+    "time": "1.294"
+  },
+  "command_exit_code": 1,
+  "duration_seconds": 834.7456489219985,
+  "note": "Complete unmodified baseline frontend suite; two existing TitleButton failures. ConnectionDelay has 15 passing tests in this run, so the earlier patch-only intermittent hide-event failure is not yet explained."
+}

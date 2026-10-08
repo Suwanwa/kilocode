@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConnectionDelayRepeatTest" tests="200" skipped="0" failures="4" errors="0" timestamp="2026-10-08T11:51:15.170Z" hostname="9cdf3e8fa895" time="79.181">
+  <properties/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="26.369"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.874"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.671"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.369"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.313"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.285"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.232"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.258"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.313"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.432"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.301"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.205"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.185"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.205"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.201"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.223"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.197"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.264"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.205"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.365"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.165"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.177"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.171"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.158"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.169"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.16"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.176"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.238"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.255"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.183"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.166"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.167"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.171"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.129"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.165"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.176"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.163"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.152"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.138"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.275"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.173"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.369"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.678"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.32"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.172"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.235"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.23"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.324"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.196"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.164"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.142"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.185"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="1.134"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.181"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.257"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.146"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.163"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.191"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.113"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.162"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.231"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.196"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.209"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.63"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.228"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.23"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.17"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.106"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.147"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.124"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.127"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.137"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.298">
+    <failure message="java.util.NoSuchElementException: Collection contains no element matching the predicate." type="java.util.NoSuchElementException">java.util.NoSuchElementException: Collection contains no element matching the predicate.
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)
+</failure>
+  </testcase>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.214"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.416"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.726"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.841"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.652"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="1.581"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.289"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.182"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.19"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.154"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.316"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.351"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.367"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.219"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="1.096"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="1.115"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.244"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.167"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.135"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.307"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.165"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.139"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.245"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.227"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="1.456"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.231"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.313"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.405"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.29">
+    <failure message="java.util.NoSuchElementException: Collection contains no element matching the predicate." type="java.util.NoSuchElementException">java.util.NoSuchElementException: Collection contains no element matching the predicate.
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)
+</failure>
+  </testcase>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.457"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.148"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.178"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.18"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.239"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.141"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.214"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.193"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.12"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.19"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.149"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.146"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.194"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.219"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.152"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.188"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.165"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.244"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.274">
+    <failure message="java.util.NoSuchElementException: Collection contains no element matching the predicate." type="java.util.NoSuchElementException">java.util.NoSuchElementException: Collection contains no element matching the predicate.
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)
+</failure>
+  </testcase>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.311"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.267"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.178"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.178"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.232"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.271"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.17"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.208"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.188"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.162"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.111"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.12"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.165"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.159"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.132">
+    <failure message="java.util.NoSuchElementException: Collection contains no element matching the predicate." type="java.util.NoSuchElementException">java.util.NoSuchElementException: Collection contains no element matching the predicate.
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435)
+</failure>
+  </testcase>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.149"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.272"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.234"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.297"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.196"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.187"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.143"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.113"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.179"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.401"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.553"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.405"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.425"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.319"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.472"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.304"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.411"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.24"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.247"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.248"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.163"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.112"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.196"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.112"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.147"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.117"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.146"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.18"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.125"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.139"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.101"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.153"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.14"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.177"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.19"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.282"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.366"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.253"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.274"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.123"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.134"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.109"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.198"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.218"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.228"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.143"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.201"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.289"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.161"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.222"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.163"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.155"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.147"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.167"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.155"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.943"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.253"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.226"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.261"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.184"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.129"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.145"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.214"/>
+  <testcase name="test hide event sees updated connection state on EDT" classname="ConnectionDelayRepeatTest" time="0.155"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[   4068]   WARN - #c.i.p.instanceContainer - InstanceNotOverridableException: Override failed for com.intellij.openapi.project.impl.ProjectStoreFactory: com.intellij.configurationScript.providers.ConfigurationScriptProjectStoreFactory attempts to override com.intellij.configurationStore.PlatformLangProjectStoreFactory, but the existing implementation is not overriddable (not declared as 'open=true')
+[   4073]   WARN - #c.i.p.instanceContainer - InstanceNotOverridableException: Override failed for com.intellij.modcommand.ModCommandExecutor: com.jetbrains.rdserver.ui.intentions.RemoteModCommandExecutor attempts to override com.intellij.lang.impl.modcommand.ModCommandExecutorImpl, but the existing implementation is not overriddable (not declared as 'open=true')
+SLF4J(E): A service provider failed to instantiate:
+org.slf4j.spi.SLF4JServiceProvider: Provider com.intellij.clouds.docker.devcontainers.cli.logging.SLF4JServiceProviderImpl could not be instantiated
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [org.slf4j.jul.JULServiceProvider@1f90ec98]
+SLF4J(W): Found provider [com.jetbrains.app.logger.slf4j.Slf4jToDaemonServiceProvider@53644665]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [org.slf4j.jul.JULServiceProvider@1f90ec98]
+[  11949]   WARN - #c.i.w.i.i.WorkspaceModelMessageDeliveryListener - Long WSM event processing. Topic=WorkspaceModelChangeListener, offender=class com.intellij.workspaceModel.ide.impl.legacyBridge.module.LegacyProjectModelListenersBridge, message=beforeChanged, time=327ms
+[  15243]   WARN - #c.i.w.i.i.WorkspaceModelMessageDeliveryListener - Long WSM event processing. Topic=WorkspaceModelChangeListener, offender=class com.intellij.workspaceModel.ide.impl.legacyBridge.module.LegacyProjectModelListenersBridge, message=changed, time=691ms
+[  16761]   WARN - #c.i.l.j.p.u.JSPluginPathManager - Cannot find /home/agent/.gradle/caches/9.8.0/transforms/0de8a1dd2659bf4206170fbf7ebdba97/transformed/idea-2026.1/plugins/JavaScriptLanguage/resources/jsLanguageServicesImpl
+[  17794]   WARN - #c.i.l.j.p.u.JSPluginPathManager - Cannot find /home/agent/.gradle/caches/9.8.0/transforms/0de8a1dd2659bf4206170fbf7ebdba97/transformed/idea-2026.1/plugins/JavaScriptLanguage/resources/jsLanguageServicesImpl
+
+11:51:59,623 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:51:59,623 FINE   n.controller.SessionController - session=pending controller: WorkspaceChanged 
+11:51:59,623 FINE   n.controller.SessionController - session=pending controller: WorkspaceReady 
+11:51:59,623 INFO   code.client.app.KiloAppService - fetchCoreInfo: requesting Core version and platform 
+11:51:59,624 INFO   code.client.app.KiloAppService - fetchCoreInfo: Core version is 1.0.0 (darwin-arm64) 
+11:51:59,625 FINE   n.controller.SessionController - session=pending controller: ViewChanged empty 
+11:51:59,625 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:51:59,626 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:51:59,628 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:51:59,630 FINE   n.controller.SessionController - session=pending controller: ConnectionChanged connecting 
+11:51:59,644 SEVERE                 #TestFramework - Test failed 
+java.util.NoSuchElementException: Collection contains no element matching the predicate. 
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435) 
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) 
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) 
+	at junit.framework.TestCase.runTest(TestCase.java:177) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$12(UsefulTestCase.java:529) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:81) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:99) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$wrapTestRunnable$15(UsefulTestCase.java:561) 
+	at com.intellij.testFramework.UsefulTestCase.runTestRunnable(UsefulTestCase.java:454) 
+	at com.intellij.testFramework.fixtures.BasePlatformTestCase.runTestRunnable(BasePlatformTestCase.java:117) 
+	at com.intellij.testFramework.UsefulTestCase.defaultRunBare(UsefulTestCase.java:470) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$13(UsefulTestCase.java:543) 
+	at com.intellij.testFramework.EdtTestUtil.lambda$runInEdtAndWait$3(EdtTestUtil.java:88) 
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:236) 
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:22) 
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:198) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.lambda$run$0(ApplicationImpl.java:651) 
+	at com.intellij.concurrency.ThreadContext.installThreadContext(threadContext.kt:305) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.run(ApplicationImpl.java:646) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$1(appImpl.kt:83) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:198) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:192) 
+	at com.intellij.util.concurrency.ContextRunnable.lambda$run$0(ContextRunnable.java:26) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.util.concurrency.ContextRunnable.run(ContextRunnable.java:25) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$2(appImpl.kt:94) 
+	at com.intellij.openapi.application.impl.LaterInvocator$1.run(LaterInvocator.java:134) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1$0(NonBlockingFlushQueue.kt:334) 
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:928) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1(NonBlockingFlushQueue.kt:333) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1(NonBlockingFlushQueue.kt:330) 
+	at com.intellij.platform.locking.impl.NestedLocksThreadingSupport.tryRunWriteIntentReadAction(NestedLocksThreadingSupport.kt:747) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent(NonBlockingFlushQueue.kt:326) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.flushNow(NonBlockingFlushQueue.kt:305) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.FLUSH_NOW$lambda$0(NonBlockingFlushQueue.kt:167) 
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323) 
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:732) 
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:711) 
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:720) 
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:573) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0$0$0(IdeEventQueue.kt:377) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$0(IdeEventQueue.kt:1110) 
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:114) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:1110) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0(IdeEventQueue.kt:375) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:415) 
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105) 
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92) 
+ 
+
+
+11:52:12,844 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:12,844 FINE   n.controller.SessionController - session=pending controller: WorkspaceChanged 
+11:52:12,844 FINE   n.controller.SessionController - session=pending controller: WorkspaceReady 
+11:52:12,845 INFO   code.client.app.KiloAppService - fetchCoreInfo: requesting Core version and platform 
+11:52:12,845 INFO   code.client.app.KiloAppService - fetchCoreInfo: Core version is 1.0.0 (darwin-arm64) 
+11:52:12,845 FINE   n.controller.SessionController - session=pending controller: ViewChanged empty 
+11:52:12,845 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:12,867 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:12,868 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:12,868 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:12,869 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:12,876 SEVERE                 #TestFramework - Test failed 
+java.util.NoSuchElementException: Collection contains no element matching the predicate. 
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435) 
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) 
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) 
+	at junit.framework.TestCase.runTest(TestCase.java:177) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$12(UsefulTestCase.java:529) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:81) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:99) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$wrapTestRunnable$15(UsefulTestCase.java:561) 
+	at com.intellij.testFramework.UsefulTestCase.runTestRunnable(UsefulTestCase.java:454) 
+	at com.intellij.testFramework.fixtures.BasePlatformTestCase.runTestRunnable(BasePlatformTestCase.java:117) 
+	at com.intellij.testFramework.UsefulTestCase.defaultRunBare(UsefulTestCase.java:470) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$13(UsefulTestCase.java:543) 
+	at com.intellij.testFramework.EdtTestUtil.lambda$runInEdtAndWait$3(EdtTestUtil.java:88) 
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:236) 
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:22) 
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:198) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.lambda$run$0(ApplicationImpl.java:651) 
+	at com.intellij.concurrency.ThreadContext.installThreadContext(threadContext.kt:305) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.run(ApplicationImpl.java:646) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$1(appImpl.kt:83) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:198) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:192) 
+	at com.intellij.util.concurrency.ContextRunnable.lambda$run$0(ContextRunnable.java:26) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.util.concurrency.ContextRunnable.run(ContextRunnable.java:25) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$2(appImpl.kt:94) 
+	at com.intellij.openapi.application.impl.LaterInvocator$1.run(LaterInvocator.java:134) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1$0(NonBlockingFlushQueue.kt:334) 
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:928) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1(NonBlockingFlushQueue.kt:333) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1(NonBlockingFlushQueue.kt:330) 
+	at com.intellij.platform.locking.impl.NestedLocksThreadingSupport.tryRunWriteIntentReadAction(NestedLocksThreadingSupport.kt:747) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent(NonBlockingFlushQueue.kt:326) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.flushNow(NonBlockingFlushQueue.kt:305) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.FLUSH_NOW$lambda$0(NonBlockingFlushQueue.kt:167) 
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323) 
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:732) 
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:711) 
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:720) 
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:573) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0$0$0(IdeEventQueue.kt:377) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$0(IdeEventQueue.kt:1110) 
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:114) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:1110) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0(IdeEventQueue.kt:375) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:415) 
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105) 
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92) 
+ 
+
+
+11:52:16,696 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:16,699 FINE   n.controller.SessionController - session=pending controller: WorkspaceChanged 
+11:52:16,699 FINE   n.controller.SessionController - session=pending controller: WorkspaceReady 
+11:52:16,706 INFO   code.client.app.KiloAppService - fetchCoreInfo: requesting Core version and platform 
+11:52:16,706 INFO   code.client.app.KiloAppService - fetchCoreInfo: Core version is 1.0.0 (darwin-arm64) 
+11:52:16,706 FINE   n.controller.SessionController - session=pending controller: ViewChanged empty 
+11:52:16,706 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:16,709 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:16,711 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:16,714 FINE   n.controller.SessionController - session=pending controller: ConnectionChanged connecting 
+11:52:16,720 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:16,726 SEVERE                 #TestFramework - Test failed 
+java.util.NoSuchElementException: Collection contains no element matching the predicate. 
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435) 
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) 
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) 
+	at junit.framework.TestCase.runTest(TestCase.java:177) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$12(UsefulTestCase.java:529) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:81) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:99) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$wrapTestRunnable$15(UsefulTestCase.java:561) 
+	at com.intellij.testFramework.UsefulTestCase.runTestRunnable(UsefulTestCase.java:454) 
+	at com.intellij.testFramework.fixtures.BasePlatformTestCase.runTestRunnable(BasePlatformTestCase.java:117) 
+	at com.intellij.testFramework.UsefulTestCase.defaultRunBare(UsefulTestCase.java:470) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$13(UsefulTestCase.java:543) 
+	at com.intellij.testFramework.EdtTestUtil.lambda$runInEdtAndWait$3(EdtTestUtil.java:88) 
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:236) 
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:22) 
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:198) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.lambda$run$0(ApplicationImpl.java:651) 
+	at com.intellij.concurrency.ThreadContext.installThreadContext(threadContext.kt:305) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.run(ApplicationImpl.java:646) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$1(appImpl.kt:83) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:198) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:192) 
+	at com.intellij.util.concurrency.ContextRunnable.lambda$run$0(ContextRunnable.java:26) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.util.concurrency.ContextRunnable.run(ContextRunnable.java:25) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$2(appImpl.kt:94) 
+	at com.intellij.openapi.application.impl.LaterInvocator$1.run(LaterInvocator.java:134) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1$0(NonBlockingFlushQueue.kt:334) 
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:928) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1(NonBlockingFlushQueue.kt:333) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1(NonBlockingFlushQueue.kt:330) 
+	at com.intellij.platform.locking.impl.NestedLocksThreadingSupport.tryRunWriteIntentReadAction(NestedLocksThreadingSupport.kt:747) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent(NonBlockingFlushQueue.kt:326) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.flushNow(NonBlockingFlushQueue.kt:305) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.FLUSH_NOW$lambda$0(NonBlockingFlushQueue.kt:167) 
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323) 
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:732) 
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:711) 
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:720) 
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:573) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0$0$0(IdeEventQueue.kt:377) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$0(IdeEventQueue.kt:1110) 
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:114) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:1110) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0(IdeEventQueue.kt:375) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:415) 
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105) 
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92) 
+ 
+
+
+11:52:19,611 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:19,611 FINE   n.controller.SessionController - session=pending controller: WorkspaceChanged 
+11:52:19,611 FINE   n.controller.SessionController - session=pending controller: WorkspaceReady 
+11:52:19,613 INFO   code.client.app.KiloAppService - fetchCoreInfo: requesting Core version and platform 
+11:52:19,614 INFO   code.client.app.KiloAppService - fetchCoreInfo: Core version is 1.0.0 (darwin-arm64) 
+11:52:19,614 FINE   n.controller.SessionController - session=pending controller: ViewChanged empty 
+11:52:19,615 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:19,618 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:19,623 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:19,626 FINE   n.controller.SessionController - session=pending controller: AppChanged 
+11:52:19,627 FINE   n.controller.SessionController - session=pending controller: AccountOverlayChanged show loggedIn=false 
+11:52:19,633 SEVERE                 #TestFramework - Test failed 
+java.util.NoSuchElementException: Collection contains no element matching the predicate. 
+	at ai.kilocode.client.session.controller.ConnectionDelayTest.test hide event sees updated connection state on EDT(ConnectionDelayTest.kt:435) 
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) 
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) 
+	at junit.framework.TestCase.runTest(TestCase.java:177) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$12(UsefulTestCase.java:529) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt$recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures$2.invoke(testLogger.kt:99) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:81) 
+	at com.intellij.testFramework.TestLoggerKt.recordErrorsLoggedInTheCurrentThreadAndReportThemAsFailures(testLogger.kt:99) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$wrapTestRunnable$15(UsefulTestCase.java:561) 
+	at com.intellij.testFramework.UsefulTestCase.runTestRunnable(UsefulTestCase.java:454) 
+	at com.intellij.testFramework.fixtures.BasePlatformTestCase.runTestRunnable(BasePlatformTestCase.java:117) 
+	at com.intellij.testFramework.UsefulTestCase.defaultRunBare(UsefulTestCase.java:470) 
+	at com.intellij.testFramework.UsefulTestCase.lambda$runBare$13(UsefulTestCase.java:543) 
+	at com.intellij.testFramework.EdtTestUtil.lambda$runInEdtAndWait$3(EdtTestUtil.java:88) 
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:236) 
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:22) 
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:198) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.lambda$run$0(ApplicationImpl.java:651) 
+	at com.intellij.concurrency.ThreadContext.installThreadContext(threadContext.kt:305) 
+	at com.intellij.openapi.application.impl.ApplicationImpl$7.run(ApplicationImpl.java:646) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$1(appImpl.kt:83) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext$runInChildContext$1.invoke(propagation.kt:192) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:198) 
+	at com.intellij.util.concurrency.ChildContext.runInChildContext(propagation.kt:192) 
+	at com.intellij.util.concurrency.ContextRunnable.lambda$run$0(ContextRunnable.java:26) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.util.concurrency.ContextRunnable.run(ContextRunnable.java:25) 
+	at com.intellij.openapi.application.impl.AppImplKt.rethrowExceptions$lambda$2(appImpl.kt:94) 
+	at com.intellij.openapi.application.impl.LaterInvocator$1.run(LaterInvocator.java:134) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1$0(NonBlockingFlushQueue.kt:334) 
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:928) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1$1(NonBlockingFlushQueue.kt:333) 
+	at com.intellij.concurrency.ThreadContext.resetThreadContext(threadContext.kt:294) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent$lambda$1(NonBlockingFlushQueue.kt:330) 
+	at com.intellij.platform.locking.impl.NestedLocksThreadingSupport.tryRunWriteIntentReadAction(NestedLocksThreadingSupport.kt:747) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.runNextEvent(NonBlockingFlushQueue.kt:326) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.flushNow(NonBlockingFlushQueue.kt:305) 
+	at com.intellij.openapi.application.impl.NonBlockingFlushQueue.FLUSH_NOW$lambda$0(NonBlockingFlushQueue.kt:167) 
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323) 
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:732) 
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:711) 
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:720) 
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:573) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0$0$0(IdeEventQueue.kt:377) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$0(IdeEventQueue.kt:1110) 
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:114) 
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:1110) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$0(IdeEventQueue.kt:375) 
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:415) 
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113) 
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105) 
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92) 
+ 
+
+]]></system-err>
+</testsuite>

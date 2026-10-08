@@ -1,0 +1,8 @@
+gradle.projectsEvaluated {
+    def frontend = rootProject.findProject(':frontend')
+    if (frontend == null) return
+    frontend.sourceSets.test.java.srcDir('/workspace/contributions/evidence/kilocode-14917/followup-repeat')
+    frontend.tasks.named('test') {
+        include '**/ConnectionDelayRepeatTest.class'
+    }
+}

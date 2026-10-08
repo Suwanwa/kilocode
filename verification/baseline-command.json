@@ -1,0 +1,21 @@
+{
+  "at": "2026-10-08T11:28:50.594089+00:00",
+  "command": [
+    "env",
+    "JAVA_HOME=/workspace/tools/sdkman/candidates/java/current",
+    "PATH=/workspace/tools/bun/node_modules/.bin:/usr/local/bin:/usr/bin:/bin",
+    "./gradlew",
+    "-Dhttps.proxyHost=proxy",
+    "-Dhttps.proxyPort=8080",
+    "-Dhttp.proxyHost=proxy",
+    "-Dhttp.proxyPort=8080",
+    "-Djavax.net.ssl.trustStore=/etc/ssl/certs/java/cacerts",
+    ":frontend:test",
+    "--console=plain"
+  ],
+  "cwd": "/workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains",
+  "duration_seconds": 834.7456489219985,
+  "exit_code": 1,
+  "command_started": true,
+  "log": "/workspace/contributions/evidence/kilocode-14917/followup-baseline-frontend.log"
+}

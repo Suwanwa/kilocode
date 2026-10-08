@@ -1,0 +1,24 @@
+{
+  "at": "2026-10-08T11:44:32.667586+00:00",
+  "command": [
+    "env",
+    "JAVA_HOME=/workspace/tools/sdkman/candidates/java/current",
+    "PATH=/workspace/tools/bun/node_modules/.bin:/usr/local/bin:/usr/bin:/bin",
+    "./gradlew",
+    "-Dhttps.proxyHost=proxy",
+    "-Dhttps.proxyPort=8080",
+    "-Dhttp.proxyHost=proxy",
+    "-Dhttp.proxyPort=8080",
+    "-Djavax.net.ssl.trustStore=/etc/ssl/certs/java/cacerts",
+    "--init-script",
+    "/workspace/contributions/evidence/kilocode-14917/followup-repeat.init.gradle",
+    "--no-configuration-cache",
+    ":frontend:test",
+    "--console=plain"
+  ],
+  "cwd": "/workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains",
+  "duration_seconds": 484.3213668890021,
+  "exit_code": 1,
+  "command_started": true,
+  "log": "/workspace/contributions/evidence/kilocode-14917/followup-baseline-connection-replay-v2.log"
+}

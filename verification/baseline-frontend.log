@@ -1,0 +1,98 @@
+Starting a Gradle Daemon (subsequent builds will be faster)
+Calculating task graph as no cached configuration is available for tasks: :frontend:test
+> Task :build-tasks:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :build-tasks:compileKotlin FROM-CACHE
+> Task :build-tasks:compileJava NO-SOURCE
+> Task :build-tasks:pluginDescriptors
+> Task :build-tasks:processResources
+> Task :build-tasks:classes
+> Task :build-tasks:jar
+> Task :frontend:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :shared:processResources
+> Task :frontend:generateManifest FROM-CACHE
+> Task :shared:generateManifest FROM-CACHE
+> Task :frontend:processTestResources
+> Task :frontend:generateProviderIcons
+> Task :frontend:generateProviderIconsDark
+> Task :shared:compileKotlin FROM-CACHE
+> Task :shared:compileJava NO-SOURCE
+> Task :shared:classes
+> Task :frontend:processResources
+> Task :shared:instrumentCode FROM-CACHE
+> Task :shared:jar
+> Task :shared:instrumentedJar FROM-CACHE
+> Task :shared:composedJar FROM-CACHE
+> Task :frontend:compileKotlin FROM-CACHE
+> Task :frontend:compileJava NO-SOURCE
+> Task :frontend:classes
+> Task :frontend:instrumentCode FROM-CACHE
+> Task :frontend:jar
+> Task :frontend:instrumentedJar FROM-CACHE
+> Task :frontend:composedJar FROM-CACHE
+> Task :frontend:prepareTestSandbox
+> Task :frontend:prepareTest
+> Task :frontend:compileTestKotlin FROM-CACHE
+> Task :frontend:compileTestJava NO-SOURCE
+> Task :frontend:testClasses
+> Task :frontend:instrumentTestCode FROM-CACHE
+
+> Task :frontend:test
+error: XDG_RUNTIME_DIR is invalid or not set in the environment.
+[0.013s][warning][cds] Archived non-system classes are disabled because the java.system.class.loader property is specified (value = "com.intellij.util.lang.PathClassLoader"). To use archived non-system classes, this property must not be set
+
+TitleButtonTest > test New Session button centers the plus and label FAILED
+    java.lang.IllegalStateException at TitleButtonTest.kt:177
+
+TitleButtonTest > test New Worktree button centers the plus and label FAILED
+    java.lang.IllegalStateException at TitleButtonTest.kt:177
+
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Index dispose started
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Dirty file ids stored. Size: 0. Index: 0 Path: /workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/.intellijPlatform/sandbox/frontend/IU-2026.1/system-test/index/dirty-file-queues/light_temp_3KPVD29ZgbJTb0txC66w7sm2X5Re83ff173. Ids & filenames: {}
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Dirty file ids read. Size: 0. Index: 0 Path: /workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/.intellijPlatform/sandbox/frontend/IU-2026.1/system-test/index/dirty-file-queues/light_temp_3KPVD29ZgbJTb0txC66w7sm2X5Re83ff173.
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Dirty file ids stored. Size: 0. Index: 0 Path: /workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/.intellijPlatform/sandbox/frontend/IU-2026.1/system-test/index/dirty-file-ids. Ids & filenames: {}
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: StubIndexExtension-s were unloaded
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Start shutting down /workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/.intellijPlatform/sandbox/frontend/IU-2026.1/system-test/index/rep.names
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Finished shutting down /workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/.intellijPlatform/sandbox/frontend/IU-2026.1/system-test/index/rep.names
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: Index dispose completed in 108ms.
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: VFS dispose started
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: VFS closing
+Oct 08, 2026 11:42:37 AM com.intellij.openapi.diagnostic.AsyncLogKt logNow
+INFO: VFS dispose completed in 13 ms.
+
+> Task :frontend:test
+
+4491 tests completed, 2 failed
+
+> Task :frontend:test FAILED
+
+[Incubating] Problems report is available at: file:///workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':frontend:test'.
+> There were failing tests. See the report at: file:///workspace/contributions/kilocode-worktrees/timeline-baseline/packages/kilo-jetbrains/frontend/build/reports/tests/test/index.html
+
+* Try:
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.8.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 13m 53s
+25 actionable tasks: 12 executed, 13 from cache
+Configuration cache entry stored.

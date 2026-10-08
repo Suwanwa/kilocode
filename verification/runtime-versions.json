@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-08T11:33:34.249819+00:00",
+  "runtimes": [
+    {
+      "process": "gradle",
+      "executable": "/workspace/tools/sdkman/candidates/java/21-tem/bin/java",
+      "release_metadata": {
+        "IMPLEMENTOR": "Eclipse Adoptium",
+        "JAVA_RUNTIME_VERSION": "21+35-LTS",
+        "JAVA_VERSION": "21",
+        "OS_ARCH": "x86_64",
+        "OS_NAME": "Linux"
+      }
+    },
+    {
+      "process": "frontend_test_jvm",
+      "executable": "/home/agent/.gradle/caches/9.8.0/transforms/0de8a1dd2659bf4206170fbf7ebdba97/transformed/idea-2026.1/jbr/bin/java",
+      "release_metadata": {
+        "JAVA_VERSION": "25.0.2",
+        "IMPLEMENTOR": "JetBrains s.r.o.",
+        "JAVA_RUNTIME_VERSION": "25.0.2+10-b329.72",
+        "OS_ARCH": "x86_64",
+        "OS_NAME": "Linux"
+      }
+    }
+  ]
+}
